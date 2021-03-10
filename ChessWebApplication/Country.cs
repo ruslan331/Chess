@@ -9,6 +9,7 @@ namespace ChessWebApplication
     {
         public Country()
         {
+
             Players = new HashSet<Player>();
         }
 

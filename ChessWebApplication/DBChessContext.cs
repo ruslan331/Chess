@@ -10,7 +10,6 @@ namespace ChessWebApplication
     {
         public DBChessContext()
         {
-
         }
 
         public DBChessContext(DbContextOptions<DBChessContext> options)
